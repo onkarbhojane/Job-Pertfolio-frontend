@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+    "description": "Web Developer from Pune",
+    "address": "Shivajinagar, Pune",
+    "email": "john@example.com",
+    "interests": "Coding, Hiking"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+    "description": "Graphic Designer from Mumbai",
+    "address": "Andheri West, Mumbai",
+    "email": "jane@example.com",
+    "interests": "Design, Music"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+    "description": "Graphic Designer from Mumbai",
+    "address": "Vit pune",
+    "email": "jane@example.com",
+    "interests": "Design, Music"
+  }
+]
